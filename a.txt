@@ -1,1 +1,2 @@
-add a new line in a.txt
+add a new line in a.txt 
+another line
