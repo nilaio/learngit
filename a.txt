@@ -1,2 +1,3 @@
 add a new line in a.txt 
 another line
+a third line
